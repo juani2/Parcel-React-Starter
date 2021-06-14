@@ -1,0 +1,9 @@
+# Ignore Configuration Files
+.babelrc
+.cache
+
+# Ignore Production Builds
+dist/
+
+# Ignore Node Modules
+node_modules/
